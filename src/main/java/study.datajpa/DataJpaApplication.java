@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DataSpaApplication {
+public class DataJpaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DataSpaApplication.class, args);
+		SpringApplication.run(DataJpaApplication.class, args);
 	}
 
 }
